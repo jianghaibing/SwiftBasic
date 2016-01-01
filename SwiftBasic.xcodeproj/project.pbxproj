@@ -22,6 +22,22 @@
 		099C2E651C36ABE50020F648 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		099C2E681C36ABE50020F648 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		099C2E6A1C36ABE50020F648 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		099C2E701C36AC070020F648 /* Arrays.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Arrays.playground; sourceTree = "<group>"; };
+		099C2E711C36AC070020F648 /* Class.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Class.playground; sourceTree = "<group>"; };
+		099C2E721C36AC070020F648 /* Closure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Closure.playground; sourceTree = "<group>"; };
+		099C2E731C36AC070020F648 /* ControlFlow.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = ControlFlow.playground; sourceTree = "<group>"; };
+		099C2E741C36AC070020F648 /* Dictionary.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Dictionary.playground; sourceTree = "<group>"; };
+		099C2E751C36AC070020F648 /* Enum.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Enum.playground; sourceTree = "<group>"; };
+		099C2E761C36AC070020F648 /* Function.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Function.playground; sourceTree = "<group>"; };
+		099C2E771C36AC070020F648 /* Loops.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Loops.playground; sourceTree = "<group>"; };
+		099C2E781C36AC070020F648 /* Operation.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Operation.playground; sourceTree = "<group>"; };
+		099C2E791C36AC070020F648 /* Optional.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Optional.playground; sourceTree = "<group>"; };
+		099C2E7A1C36AC070020F648 /* Properties&Methods.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = "Properties&Methods.playground"; sourceTree = "<group>"; };
+		099C2E7B1C36AC070020F648 /* Protocol.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Protocol.playground; sourceTree = "<group>"; };
+		099C2E7C1C36AC070020F648 /* Set.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Set.playground; sourceTree = "<group>"; };
+		099C2E7D1C36AC070020F648 /* String.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = String.playground; sourceTree = "<group>"; };
+		099C2E7E1C36AC070020F648 /* Structure.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Structure.playground; sourceTree = "<group>"; };
+		099C2E7F1C36AC070020F648 /* Variable.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Variable.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +72,22 @@
 			children = (
 				099C2E5E1C36ABE50020F648 /* AppDelegate.swift */,
 				099C2E601C36ABE50020F648 /* ViewController.swift */,
+				099C2E701C36AC070020F648 /* Arrays.playground */,
+				099C2E711C36AC070020F648 /* Class.playground */,
+				099C2E721C36AC070020F648 /* Closure.playground */,
+				099C2E731C36AC070020F648 /* ControlFlow.playground */,
+				099C2E741C36AC070020F648 /* Dictionary.playground */,
+				099C2E751C36AC070020F648 /* Enum.playground */,
+				099C2E761C36AC070020F648 /* Function.playground */,
+				099C2E771C36AC070020F648 /* Loops.playground */,
+				099C2E781C36AC070020F648 /* Operation.playground */,
+				099C2E791C36AC070020F648 /* Optional.playground */,
+				099C2E7A1C36AC070020F648 /* Properties&Methods.playground */,
+				099C2E7B1C36AC070020F648 /* Protocol.playground */,
+				099C2E7C1C36AC070020F648 /* Set.playground */,
+				099C2E7D1C36AC070020F648 /* String.playground */,
+				099C2E7E1C36AC070020F648 /* Structure.playground */,
+				099C2E7F1C36AC070020F648 /* Variable.playground */,
 				099C2E621C36ABE50020F648 /* Main.storyboard */,
 				099C2E651C36ABE50020F648 /* Assets.xcassets */,
 				099C2E671C36ABE50020F648 /* LaunchScreen.storyboard */,
